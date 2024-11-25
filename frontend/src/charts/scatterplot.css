@@ -1,0 +1,15 @@
+.selected {
+    fill: red;
+    stroke: black;
+    stroke-width: 2px;
+  }
+  
+.unselected {
+    fill: steelblue;
+}
+
+.chart-container {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
